@@ -1,7 +1,10 @@
-### Hi there 
-![Metrics](https://metrics.lecoq.io/camilod529?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=Jupyter%20Notebook%2C%20css%2C%20scss%2C%20less%2C%20c%23&languages.limit=4&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FBogota&config.octicon=true)
+### Hi there
 
-![[github-metrics.svg]]
+this is my github profile, here you can find some of the projects I have worked on, I hope you find them useful.
+
+<!-- ![Metrics](https://metrics.lecoq.io/camilod529?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=Jupyter%20Notebook%2C%20css%2C%20scss%2C%20less%2C%20c%23&languages.limit=4&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FBogota&config.octicon=true) -->
+
+![](github-metrics.svg)
 
 <!--
 **camilod529/camilod529** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
